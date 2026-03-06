@@ -1,7 +1,5 @@
 Books I've read recently, with quick thoughts.
 
----
-
  - ## **Atomic Habits** — *James Clear*
 
     ![Atomic Habits cover](https://covers.openlibrary.org/b/isbn/9780735211292-M.jpg)
