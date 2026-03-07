@@ -1,15 +1,20 @@
 # Inkgit🫟 - quick HTML content for your site
 
-Turn markdown files into embeddable HTML pages, served from GitHub Pages. No build tools on your site, no frameworks, no dependencies at runtime.
+Inkgit🫟 is a simple tool to serve frequently changing content from a Git repo and show it on your website without requiring to go through CMS updates or build pipelines.
 
-**Example use case:** you want to publish a TIL or reading list on your personal site, but you don't want to do that daily from your CMS, or don't want to rebuild your static site for every small update. With Inkgit🫟, you can make updates in a markdown file — directly on GitHub, or local repo and push. A tiny embedded script will load this content on your site seamlessly.
+## Example use cases
+
+ * **Showing frequently updated section on your website**: For example, a TIL, reading list, project updates, or a changelog — that you want to maintain separately from your main content because you don't want to rebuild your entire site for every small update.
+
+ * **Showing updates from AI agents:** For example, an AI agent collecting daily market data and showing it on your site without giving it access to your website CMS.
+
 
 ## How it works
 
 1. You update the markdown files in the `data/` folder (eg. `data/til.md`)
 2. A GitHub Action converts them to minified HTML and outputs to `dist/`
 3. GitHub Pages serves the `dist/` directory
-4. Your site fetches and displays them with a one-line embed
+4. Your site fetches and displays them with a one-line embed.
 
 ## Quick start
 
@@ -127,11 +132,11 @@ This outputs everything to `dist/`. Open `dist/index.html` in a browser to previ
 └── README.md
 ```
 
-### Why I built this
+## Why I built this
 
-I keep running into interesting things every day — a handy CLI flag, a language quirk, a debugging trick — and I wanted a place to share them quickly. But rebuilding my entire website for a one-line TIL entry felt like overkill. I didn't want to open my blog content, trigger a deploy, and wait for a build pipeline just to jot down something I learned.
+I keep running into interesting things every day — a handy CLI flag, a language quirk, a debugging trick — and I wanted to share a TIL list on my [personal blog](https://iamvishnu.com). But rebuilding my entire website for a one-line TIL entry felt like overkill. I didn't want to open my blog content, edit it, trigger a deploy, and wait for a build pipeline every time just to jot down a line of text.
 
-So I built Inkgit🫟. Now I just edit a markdown file — right on GitHub or from my local repo — push, and it shows up on my blog. The website itself doesn't change at all; a tiny script fetches the latest content at load time. The TIL stays separate, lives in its own repo, and updates independently.
+So I built Inkgit🫟. Now I just edit a markdown file — right on GitHub or from my local repo and push, and it shows up on my blog. The website itself doesn't change at all; a tiny script fetches the latest content at load time. The TIL stays separate, lives in its own repo, and updates independently.
 
 ### The name "Inkgit🫟"
 
@@ -141,6 +146,6 @@ So I built Inkgit🫟. Now I just edit a markdown file — right on GitHub or fr
 
 ## License
 
-Copyright (c) 2026 Vishnu Haridas
+Copyright (c) 2026 [Vishnu Haridas](https://iamvishnu.com)
 
 This software is published under MIT License. See [LICENSE.txt](LICENSE.txt) for more details
