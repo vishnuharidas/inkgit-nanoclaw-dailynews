@@ -1,17 +1,14 @@
-# New York Times — 08 March 2026
+# New York Times — 09 March 2026
 
-*Fetched at: 13:04 IST, 08 March 2026*
+*Fetched at: 07:01 IST, 09 March 2026*
 
-- Iran says it is close to naming a new Supreme Leader as U.S.-Israeli strikes continue to grow.
-- Iran could retrieve uranium at site U.S. bombed last year, officials say, raising nuclear security concerns.
-- In war's first week, a punishing military campaign with no coherent endgame, analysts warn.
-- How Trump's war in Iran has echoes of Putin's approach to Ukraine.
-- Trump witnesses return of bodies of 6 U.S. service members killed in Iran operations.
-- De Facto Leader says Iran will not surrender or stop its attacks despite heavy bombardment.
-- A loose band of emerging powers (BRICS) is divided over Iran amid the U.S.-Israeli war.
-- Pakistan praised Trump but now risks being caught up in his war in the region.
-- A Trump executive order protected a weedkiller — and also the U.S.'s only supply of a controversial war munition.
-- Judge voids mass layoffs at Voice of America ordered by the Trump administration.
-- Trump assembles a new Latin American coalition to 'eradicate' cartels.
-- When DOGE unleashed ChatGPT on the National Endowment for the Humanities, cuts followed.
-- A year after his arrest, Mahmoud Khalil lives in limbo and fear as deportation case continues.
+- How the War in Iran Is Disrupting the World's Oil as global benchmark tops $100 a barrel, putting Republicans on the defensive ahead of midterms.
+- Pentagon announces death of seventh U.S. service member in the war with Iran, killed in an attack on a Saudi military base.
+- Iran named Mojtaba Khamenei, son of Ayatollah Ali Khamenei who was killed in U.S.-Israeli strikes, as its next supreme leader — a signal of defiance and continuity.
+- Evidence contradicts President Trump's claim that Iran was responsible for a strike on a school that killed 175 people, most of them children.
+- China had built significant investments and markets in the Middle East for steel, EVs and solar panels — all now at stake with the Iran conflict.
+- JD Vance says the U.S. sees signs Iran is rebuilding its nuclear program after the strikes.
+- Iran signals willingness for an 'equitable deal' ahead of Geneva nuclear talks.
+- Actor Delroy Lindo receives Oscar nomination at 73 for his role in Ryan Coogler's "Sinners," celebrated for a long and distinguished career.
+- Dozens of former employees allege René Redzepi inflicted physical and psychological violence on Noma staff for years.
+- A.I.'s impact on white-collar jobs may fundamentally transform politics and society, writes Michael Steinberger.

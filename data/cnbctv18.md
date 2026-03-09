@@ -1,17 +1,16 @@
-# CNBC TV18 — 08 March 2026
+# CNBC TV18 — 09 March 2026
 
-*Fetched at: 13:04 IST, 08 March 2026*
+*Fetched at: 07:01 IST, 09 March 2026*
 
-- Trade Setup for March 9: Nifty at risk of a fall towards 24,000 as oil nears $100 a barrel.
-- Cracks emerge in Iran's leadership as it reels under continued U.S.-Israeli bombardment.
-- Donald Trump says US may target new parts of Iran in escalating war campaign.
-- Russia aiding Iran by providing intelligence to target U.S. forces, report says.
-- West Asia war triggers 'biggest disruption in oil production in history', says energy expert Daniel Yergin.
-- Iran-Israel war: UAE says Iran fired 16 ballistic missiles and 117 drones in latest attack.
-- India, China should view each other as partners, not rivals: Foreign Minister Wang Yi.
-- OpenAI Robotics head resigns after deal with Pentagon sparks internal controversy.
-- AU Small Finance Bank receives an important waiver from RBI.
-- Domestic LPG price unlikely to go up further; ₹300 subsidy continues for Ujjwala users: Sources.
-- Meesho receives ₹1,500 crore income tax demand for AY24, plans to contest order.
-- Sufficient fertilisers now, but problems may arise if West Asia conflict prolongs: Report.
-- Lupin receives Form 483 with 2 observations after US FDA inspection at Ankleshwar facility.
+- Sensex and Nifty tumble sharply as crude oil nears $120/barrel amid the US-Iran-Israel war; investors lose ₹12 lakh crore in a single session.
+- HPCL, BPCL fall up to 8% as rising crude oil prices hit downstream oil marketing companies hard.
+- IndiGo shares drop 8% due to surging jet fuel costs, though Kotak Mahindra sees 25% upside potential.
+- PG Electroplast shares fall 12% after LPG allocation cut linked to disruptions from the US-Iran war.
+- JK Tyre and peers fall up to 8% as rising crude and rubber prices raise profitability concerns.
+- Meesho stock tanks 10% after a ₹1,500 crore income tax demand and as shareholder lock-in period ends.
+- Iran-Israel-US war: India urges dialogue and de-escalation; Trump says he is 'not happy' with Iran's new Supreme Leader.
+- Bahrain's state oil company declares force majeure on shipments after Iran attacked its only oil refinery.
+- JD Vance says the US sees signs Iran is rebuilding its nuclear program following the strikes.
+- Iran signals willingness for an 'equitable deal' ahead of scheduled Geneva nuclear talks.
+- Groww offers to acquire PGIM India at 2018 valuation price; Prudential is holding out for more.
+- Paras Defence bags ₹80 crore DRDO order for an air defence optical system.

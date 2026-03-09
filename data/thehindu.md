@@ -1,16 +1,16 @@
-# The Hindu — 08 March 2026
+# The Hindu — 09 March 2026
 
-*Fetched at: 13:04 IST, 08 March 2026*
+*Fetched at: 07:01 IST, 09 March 2026*
 
-- Israel-Iran war LIVE: Iran diplomats evacuate Beirut on Russian plane, says Lebanese official.
-- Iran says it is close to naming new Supreme Leader as U.S.-Israeli strikes grow.
-- PM Modi vows to defeat Trinamool's 'arrogant' politics after 'insult' to President Murmu.
-- My resignation as Bengal Governor was a conscious decision, will remain confidential till the right time: Ananda Bose.
-- Second part of Budget Session all set for stormy start amid opposition protests.
-- The legality of U.S.-Israel strikes on Iran examined amid growing international concern.
-- Patriarchy, the Matilda effect, and the erasure of women in STEM on International Women's Day.
-- The dangers of AI animal "slop" videos and what they mean for wildlife conservation.
-- India-Canada uranium deal and its implications for India's nuclear programme.
-- LPG, LNG and India's production, supply and distribution explained amid West Asia war impact.
-- Essential Commodities Act: When and why did Centre invoke it last?
-- Formula One: Arvid Lindblad in action during the Australian Grand Prix race on March 8, 2026.
+- With an eye on Trump's visit, China weighs its response to the Iran conflict as regional tensions escalate.
+- U.S. urged India to buy Russian oil already at sea to ease supply fears amid the Iran war, says Energy Secretary Chris Wright.
+- Israel-Iran war: Bahrain's state oil company declares force majeure on its shipments after Iran attacked the nation's only oil refinery.
+- Jaishankar addresses Parliament on West Asia conflict; speaks on Indians stranded in the region.
+- India-New Zealand T20 World Cup final logs a record concurrent viewership of 82.1 crore.
+- One Nation, One Election — remedy worse than disease, writes Tamil Nadu CM M.K. Stalin.
+- Death behind bars in Chhattisgarh raises questions about custodial safety and accountability.
+- DMK-Congress: A successful but battered alliance as both parties navigate coalition tensions.
+- The new Canada-India economic alignment emerges amid shifting global trade dynamics.
+- The legality of U.S.-Israel strikes on Iran examined under international law.
+- Why are Finance Commission grants to cities still so limited? Explained.
+- Generational shift: On the Nepal election results and what they signal for the country's politics.
