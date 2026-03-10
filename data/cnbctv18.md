@@ -1,16 +1,19 @@
-# CNBC TV18 — 09 March 2026
+# CNBC TV18 — 10 March 2026
 
-*Fetched at: 07:01 IST, 09 March 2026*
+*Fetched at: 07:00 IST, 10 March 2026*
 
-- Sensex and Nifty tumble sharply as crude oil nears $120/barrel amid the US-Iran-Israel war; investors lose ₹12 lakh crore in a single session.
-- HPCL, BPCL fall up to 8% as rising crude oil prices hit downstream oil marketing companies hard.
-- IndiGo shares drop 8% due to surging jet fuel costs, though Kotak Mahindra sees 25% upside potential.
-- PG Electroplast shares fall 12% after LPG allocation cut linked to disruptions from the US-Iran war.
-- JK Tyre and peers fall up to 8% as rising crude and rubber prices raise profitability concerns.
-- Meesho stock tanks 10% after a ₹1,500 crore income tax demand and as shareholder lock-in period ends.
-- Iran-Israel-US war: India urges dialogue and de-escalation; Trump says he is 'not happy' with Iran's new Supreme Leader.
-- Bahrain's state oil company declares force majeure on shipments after Iran attacked its only oil refinery.
-- JD Vance says the US sees signs Iran is rebuilding its nuclear program following the strikes.
-- Iran signals willingness for an 'equitable deal' ahead of scheduled Geneva nuclear talks.
-- Groww offers to acquire PGIM India at 2018 valuation price; Prudential is holding out for more.
-- Paras Defence bags ₹80 crore DRDO order for an air defence optical system.
+- Iran vows to fight on as missiles hit Gulf states despite Trump's "war ending soon" claim; new Supreme Leader Mojtaba Khamenei marks appointment with fresh missile barrages.
+- West Asia crisis: Fuel shortage compels Asian countries to ask for work from home and school/university closures.
+- LPG crunch: 60% of restaurants fear shutdown within days, says NRAI, as LPG supply disruption hits the hospitality sector.
+- Why Indian restaurants are facing LPG shortages: India's gas reprioritisation order explained amid Strait of Hormuz closure.
+- Brent crude prices see biggest intraday reversal on record after Trump says Iran war 'will end soon'.
+- Asian shares rise and oil prices decline as Trump signals Iran war may end soon.
+- Dow Jones recovers 1,100 points from the lows to end higher; oil falls on Trump's war remarks.
+- SEBI chief urges investors not to panic amid global market volatility triggered by West Asia conflict.
+- IDFC FIRST Bank says ₹645 crore paid to clients in the Chandigarh branch fraud case.
+- Hyundai Venue crosses 1 lakh bookings; HX8 diesel automatic variant launched at ₹13.70 lakh.
+- Xiaomi 17, Xiaomi 17 Ultra and Xiaomi Pad 8 to debut in India on March 11.
+- Gold steady, silver jumps over 5% as precious metals rally on safe-haven demand amid war tensions.
+- US' JetBlue Airways requests nationwide ground stop; FAA halts flights at all destinations due to technical issues.
+- Iran–Israel–US war escalates: Khamenei killed, Strait of Hormuz closed, protests worldwide — key highlights.
+- Market correction: Flexi-cap funds fall up to 23% in nearly 18 months; large caps decline over 12%.

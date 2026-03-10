@@ -1,14 +1,19 @@
-# New York Times — 09 March 2026
+# New York Times — 10 March 2026
 
-*Fetched at: 07:01 IST, 09 March 2026*
+*Fetched at: 07:00 IST, 10 March 2026*
 
-- How the War in Iran Is Disrupting the World's Oil as global benchmark tops $100 a barrel, putting Republicans on the defensive ahead of midterms.
-- Pentagon announces death of seventh U.S. service member in the war with Iran, killed in an attack on a Saudi military base.
-- Iran named Mojtaba Khamenei, son of Ayatollah Ali Khamenei who was killed in U.S.-Israeli strikes, as its next supreme leader — a signal of defiance and continuity.
-- Evidence contradicts President Trump's claim that Iran was responsible for a strike on a school that killed 175 people, most of them children.
-- China had built significant investments and markets in the Middle East for steel, EVs and solar panels — all now at stake with the Iran conflict.
-- JD Vance says the U.S. sees signs Iran is rebuilding its nuclear program after the strikes.
-- Iran signals willingness for an 'equitable deal' ahead of Geneva nuclear talks.
-- Actor Delroy Lindo receives Oscar nomination at 73 for his role in Ryan Coogler's "Sinners," celebrated for a long and distinguished career.
-- Dozens of former employees allege René Redzepi inflicted physical and psychological violence on Noma staff for years.
-- A.I.'s impact on white-collar jobs may fundamentally transform politics and society, writes Michael Steinberger.
+- Trump's war in Iran and rising gas prices are colliding with the Republican Party's midterm agenda, threatening GOP electoral prospects.
+- After global economy shudders, Trump zigzags on whether the war with Iran is nearing an end, saying it will be "over soon" but warning of harder strikes if needed.
+- Short of ending the Iran conflict, Trump has limited tools to lower surging oil prices.
+- Fragments of a U.S.-made missile were seen in photos taken by Iran near a deadly school strike.
+- War with Iran becomes the world's latest economic hazard as leaders prepare for severe financial blowback.
+- After turning away refugees, Trump presses to protect the Iranian women's soccer team seeking asylum.
+- As war comes to Gulf states, migrant workers are paying the highest price in casualties and displacement.
+- Two Supreme Court justices debate the handling of Trump emergency cases in a rare joint public appearance.
+- In scathing ruling, judge says 3 Trump prosecutors in New Jersey are serving in unlawful roles.
+- U.S. solar installations fell in 2025 as Trump aggressively attacked clean energy policies.
+- Alexander Brothers found guilty on all counts in sex-trafficking trial after weeks of graphic testimony.
+- Nepal's presumptive new leader Balendra Shah, who raps and rants, led his party to a landslide after the country's Gen Z revolution.
+- 2 men face terrorism charges after a foiled bombing near New York City Mayor's residence at Gracie Mansion.
+- Meteorite crashes through a roof in Germany after a fiery light show seen across multiple European countries.
+- The scale of billionaires' campaign donations is overwhelming U.S. politics — making up 19% of all federal contributions in 2024.
