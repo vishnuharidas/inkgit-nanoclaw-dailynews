@@ -1,19 +1,17 @@
-# CNBC TV18 — 10 March 2026
+# CNBC TV18 — 11 March 2026
 
-*Fetched at: 07:00 IST, 10 March 2026*
+*Fetched at: 07:03 IST, 11 March 2026*
 
-- Iran vows to fight on as missiles hit Gulf states despite Trump's "war ending soon" claim; new Supreme Leader Mojtaba Khamenei marks appointment with fresh missile barrages.
-- West Asia crisis: Fuel shortage compels Asian countries to ask for work from home and school/university closures.
-- LPG crunch: 60% of restaurants fear shutdown within days, says NRAI, as LPG supply disruption hits the hospitality sector.
-- Why Indian restaurants are facing LPG shortages: India's gas reprioritisation order explained amid Strait of Hormuz closure.
-- Brent crude prices see biggest intraday reversal on record after Trump says Iran war 'will end soon'.
-- Asian shares rise and oil prices decline as Trump signals Iran war may end soon.
-- Dow Jones recovers 1,100 points from the lows to end higher; oil falls on Trump's war remarks.
-- SEBI chief urges investors not to panic amid global market volatility triggered by West Asia conflict.
-- IDFC FIRST Bank says ₹645 crore paid to clients in the Chandigarh branch fraud case.
-- Hyundai Venue crosses 1 lakh bookings; HX8 diesel automatic variant launched at ₹13.70 lakh.
-- Xiaomi 17, Xiaomi 17 Ultra and Xiaomi Pad 8 to debut in India on March 11.
-- Gold steady, silver jumps over 5% as precious metals rally on safe-haven demand amid war tensions.
-- US' JetBlue Airways requests nationwide ground stop; FAA halts flights at all destinations due to technical issues.
-- Iran–Israel–US war escalates: Khamenei killed, Strait of Hormuz closed, protests worldwide — key highlights.
-- Market correction: Flexi-cap funds fall up to 23% in nearly 18 months; large caps decline over 12%.
+- How 3 shareholders and a motley board are slowing Yes Bank down — exclusive analysis.
+- New U.S. inflation data due Wednesday; market experts outline trading strategies ahead of the release.
+- RailTel bags ₹115 crore Power Grid order; clarifies GAIL pact is non-binding.
+- All 29 analysts covering Max Financial have a 'buy' rating; JPMorgan joins with an overweight call.
+- Heatwave impact: AC makers Blue Star, Voltas, and Havells shares surge up to 5%.
+- Jindal Steel wins Odisha iron ore block with a 101% premium bid.
+- Gold and silver prices in India moving in a narrow range — analysts explain why.
+- JD Vance says U.S. sees signs Iran is rebuilding its nuclear program after military strikes.
+- Iran signals willingness for an 'equitable deal' ahead of Geneva nuclear talks.
+- Cuba says its forces killed four individuals attempting to 'infiltrate' the island on a Florida speedboat.
+- Meta acquires AI agent social network Moltbook in a strategic move.
+- Chevron and Shell closing in on first major oil production deals in Venezuela since U.S. captured Maduro.
+- Nepal Elections 2026: Karki says 'my duty is completed'; over 60% voter turnout recorded.
