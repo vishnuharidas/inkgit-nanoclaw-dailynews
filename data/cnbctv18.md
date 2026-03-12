@@ -1,17 +1,16 @@
-# CNBC TV18 — 11 March 2026
+# CNBC TV18 — 12 March 2026
 
-*Fetched at: 07:03 IST, 11 March 2026*
+*Fetched at: 07:02 IST, 12 March 2026*
 
-- How 3 shareholders and a motley board are slowing Yes Bank down — exclusive analysis.
-- New U.S. inflation data due Wednesday; market experts outline trading strategies ahead of the release.
-- RailTel bags ₹115 crore Power Grid order; clarifies GAIL pact is non-binding.
-- All 29 analysts covering Max Financial have a 'buy' rating; JPMorgan joins with an overweight call.
-- Heatwave impact: AC makers Blue Star, Voltas, and Havells shares surge up to 5%.
-- Jindal Steel wins Odisha iron ore block with a 101% premium bid.
-- Gold and silver prices in India moving in a narrow range — analysts explain why.
-- JD Vance says U.S. sees signs Iran is rebuilding its nuclear program after military strikes.
-- Iran signals willingness for an 'equitable deal' ahead of Geneva nuclear talks.
-- Cuba says its forces killed four individuals attempting to 'infiltrate' the island on a Florida speedboat.
-- Meta acquires AI agent social network Moltbook in a strategic move.
-- Chevron and Shell closing in on first major oil production deals in Venezuela since U.S. captured Maduro.
-- Nepal Elections 2026: Karki says 'my duty is completed'; over 60% voter turnout recorded.
+- LPG shortage crisis puts power and energy stocks in the spotlight as cooking gas panic spreads across India.
+- Key factors behind the surge of up to 15% in power stocks led by NTPC Green Energy amid the fuel crisis.
+- L&T shares fall after a second price target cut in two days due to the ongoing West Asia crisis.
+- Eternal and Swiggy shares slide up to 5% as LPG shortage hits restaurant and food delivery operations.
+- Iran-US-Israel war: Italy reports its military base in Iraq's Kurdistan region was attacked.
+- Borosil shares fall 4% as LPG shortage caused by the West Asia war disrupts operations.
+- Aarti Industries shares gain nearly 6% on winning a $150 million agrochemical supply contract.
+- Enviro Infra Engineers shares gain 10% after winning an order worth ₹411 crore in Bihar.
+- BSE, Maharashtra Vidhan Sabha and High Court receive bomb threat emails.
+- Musk unveils joint Tesla-xAI project 'Macrohard', aiming at software disruption.
+- Gold and silver edge lower on MCX as dollar strength weighs on precious metals.
+- Macquarie identifies a key re-rating trigger for ONGC beyond just higher oil prices.

@@ -1,17 +1,16 @@
-# New York Times — 11 March 2026
+# New York Times — 12 March 2026
 
-*Fetched at: 07:03 IST, 11 March 2026*
+*Fetched at: 07:02 IST, 12 March 2026*
 
-- Mass evacuations underway in Lebanon as Israeli strikes and bombing intensify across the country.
-- Trump administration faces scrutiny over civilian deaths in the U.S.-led Iran war.
-- Airlines cancel hundreds of Middle East flights amid escalating Iran conflict, disrupting global travel.
-- Analysis: How Trump miscalculated Iran's response to U.S. military strikes.
-- Iran's military tactics under the microscope as conflict with the U.S. and Israel deepens.
-- Iran's Supreme Leader Khamenei reported injured as U.S.-Israel-Iran war escalates.
-- Ukraine allegedly using China-linked drones, raising new geopolitical tensions in Europe.
-- Attorney General Bondi issues threats over military housing — prompting bipartisan alarm.
-- Senate passes housing bill amid ongoing debates over affordability and federal policy.
-- Global Entry program disrupted as DHS shutdown looms, stranding frequent travellers.
-- Smartmatic sues, calling Trump indictment effort 'vindictive prosecution' targeting company.
-- Marjorie Taylor Greene loses Georgia election in a significant political setback.
-- Bennie Thompson wins Mississippi primary in decisive victory.
+- Oil tops $100 a barrel as airstrikes shake Beirut and Tehran and attacks on ships spread across the Middle East.
+- How Trump and his advisers miscalculated Iran's response to war, leading to an escalating conflict.
+- U.S. is at fault in strike on school in Iran, preliminary military inquiry finds, undercutting Trump's claims.
+- U.N. Security Council condemns Iran's retaliatory strikes in the Middle East.
+- Strikes on Iran damage cultural heritage sites, deepening Iranian anger against the US and Israel.
+- Trump files missing in Epstein document release highlight Justice Department missteps, FBI shared list with Trump at top.
+- Starmer warned of 'reputational risk' of making a friend of Epstein an ambassador, report says.
+- At China's big political meeting, a rare debate about inequality erupts over meagre pension increases for farmers.
+- A Trump-Xi summit nears, but China does not know what Trump wants from the meeting.
+- René Redzepi steps down at Noma after 23 years amid allegations of past abuse.
+- U.S. accuses 16 trading partners of unfair practices and opens broad trade investigation.
+- Republicans concede they need to pivot on immigration before midterms after Trump crackdown hurt the party.
